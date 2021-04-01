@@ -3,6 +3,13 @@
 	"EngineAssociation": "{DF47282F-4FE1-4326-EC8F-26B0154A1E05}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "SurvivalGameKitV1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ApexDestruction",
